@@ -5,11 +5,27 @@ h1 {
   margin: 30px;
 }
 
-/* h2 {
+.title {
+  margin-bottom: 30px;
+}
+
+.title img {
+  border: 2px solid navy;
+  padding: 10px;
+  background-color: tan;
+}
+
+.animals h2 {
   text-align: center;
   font-family: 'Akronim', cursive;
   font-size: 30px;
-} */
+}
+
+.animals p {
+  text-align: center;
+  /* font-family: 'Roboto Mono', monospace; */
+  font-size: 20px;
+}
 
 body  {
   background-image: url("https://cdn.shopify.com/s/files/1/2930/2308/products/old-master-sky-blue-with-white-smoke-abstract-background-backdrop_cddbf478-6077-457f-b325-a14511e74b1b_530x@2x.jpg");
