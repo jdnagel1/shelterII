@@ -1,18 +1,15 @@
-.animals h1 {
-  font-style: italic;
-}
-
 h1 {
   text-align: center;
   font-family: 'Akronim', cursive;
   font-size: 60px;
+  margin: 30px;
 }
 
-h2 {
+/* h2 {
   text-align: center;
   font-family: 'Akronim', cursive;
   font-size: 30px;
-}
+} */
 
 body  {
   background-image: url("https://cdn.shopify.com/s/files/1/2930/2308/products/old-master-sky-blue-with-white-smoke-abstract-background-backdrop_cddbf478-6077-457f-b325-a14511e74b1b_530x@2x.jpg");
@@ -27,7 +24,62 @@ body  {
   width: 20%;
 }
 
-img {
+/* img {
   margin-top: 50px;
   margin-bottom: 50px;
+} */
+
+/* img {
+  margin: 50px;
+  padding: 10px;
+} */
+
+.donny {
+  border: 2px solid navy;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
+}
+
+.walter {
+  border: 2px solid navy;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
+}
+
+.maude {
+  border: 2px solid navy;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
+}
+
+.brandt {
+  border: 2px solid navy;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
+}
+
+.jeffrey {
+  border: 2px solid navy;
+  background-color: white;
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
 }
